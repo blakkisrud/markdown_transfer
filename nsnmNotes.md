@@ -53,7 +53,7 @@ Kuler - ligner på tumorer, og en stor sylinder som kan substituere et "stort" o
 
 Dette virker jo veldig bra - supert! Går vi litt nærmere inn så ser vi 
 
-Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har én kraftig gamma-komponent og relativt enkel å avbilde. La oss ta for oss en annen isotop - min personlige favoritt - 177Lu. Av de litt rarere er den fortsatt regnet som en "god" bildeisotop - eksempel-bildet mitt fra isted var fra en pasient fra prosjektet mitt med en relativt beskjeden dose (ca halvparten var også ute på dette tidspunktet) men allikevel har vi et ganske godt bilde. 
+Men vi har også jukset litt - 99mTc er en svært god bilde-isotop. Den har én kraftig gamma-komponent og relativt enkel å avbilde. La oss ta for oss en annen isotop - min personlige favoritt - 177Lu. Av de litt rarere er den fortsatt regnet som en "god" bildeisotop - eksempel-bildet mitt fra isted var fra en pasient fra prosjektet mitt med en relativt beskjeden dose (ca halvparten var også ute på dette tidspunktet) men allikevel har vi et ganske godt bilde. 
 
 
 
@@ -64,5 +64,5 @@ Men vi har også jukset litt - 99mTc er en helt fantastisk bilde-isotop. Den har
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjI1MDA5NywxMjA4MjI4NTI4XX0=
+eyJoaXN0b3J5IjpbLTIwMTAyNDExOSwxMjA4MjI4NTI4XX0=
 -->
