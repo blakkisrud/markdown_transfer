@@ -64,5 +64,5 @@ Men vi har også jukset litt - 99mTc er en svært god bilde-isotop. Den har én 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAyNDExOSwxMjA4MjI4NTI4XX0=
+eyJoaXN0b3J5IjpbLTIwMTAyNDExOV19
 -->
