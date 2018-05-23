@@ -2,6 +2,12 @@
 blakkisrud@gmail.com
 johbla@ous-hf.no
 
+### TODO: 23. mai
+
+*	Større font på tidslinjen
+*	Inkorporere mer rundt eget arbeid
+
+
 ## Introduksjon
 
 ### Hvem er jeg?
@@ -64,5 +70,5 @@ Men vi har også jukset litt - 99mTc er en svært god bilde-isotop. Den har én 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAyNDExOV19
+eyJoaXN0b3J5IjpbMTQ1MTU4Nzk3MSwtMjAxMDI0MTE5XX0=
 -->
