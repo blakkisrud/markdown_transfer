@@ -7,7 +7,8 @@ johbla@ous-hf.no
 *	Større font på tidslinjen
 *	Inkorporere mer rundt eget arbeid
 *	Legg inn nuklide-spekter i lysbilde 25-ish, mellom Tc og Lu
-*	Endre til 
+*	Spørsmålslysbilde før hva xSPECT lover
+*	1
 
 
 ## Introduksjon
@@ -72,6 +73,6 @@ Men vi har også jukset litt - 99mTc er en svært god bilde-isotop. Den har én 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI3ODg3NCwxODI5NTg2NDE4LDE0NT
-E1ODc5NzEsLTIwMTAyNDExOV19
+eyJoaXN0b3J5IjpbLTEwMzYwOTAyMzksMTgyOTU4NjQxOCwxND
+UxNTg3OTcxLC0yMDEwMjQxMTldfQ==
 -->
