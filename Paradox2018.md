@@ -40,5 +40,5 @@ Herregud som de hater hverandre - Bill sitt hode forsvinner - Gale spruter Landa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODYxMjAzMV19
+eyJoaXN0b3J5IjpbLTE2MjM5ODQxMTEsMTA0ODYxMjAzMV19
 -->
